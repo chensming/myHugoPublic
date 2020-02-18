@@ -6,10 +6,29 @@
     <description>Recent content on Andy的个人博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Feb 2020 15:07:15 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2020 15:18:22 +0800</lastBuildDate>
     
 	<atom:link href="https://chen_shu_ming.gitee.io/myblogu/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>BeginingOfHugo</title>
+      <link>https://chen_shu_ming.gitee.io/myblogu/post/beginingofhugo/</link>
+      <pubDate>Tue, 18 Feb 2020 15:18:22 +0800</pubDate>
+      
+      <guid>https://chen_shu_ming.gitee.io/myblogu/post/beginingofhugo/</guid>
+      <description>&lt;p&gt;windows系统的用户去 &lt;a href=&#34;https://github.com/gohugoio/hugo/releases&#34;&gt;hugo二进制文件和tar包&lt;/a&gt;,
+如果你的电脑是64位的话,推荐&lt;strong&gt;extends&lt;/strong&gt;那个，记得那个比普通版的hugo支持将sass和less转为css。&lt;/p&gt;
+&lt;p&gt;然后把环境变量设置在解压出来的&lt;strong&gt;hugo.exe&lt;/strong&gt;目录下。&lt;/p&gt;
+&lt;p&gt;mac用户直接在你要新建blog项目的目录下&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;$ brew install hugo
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;linux用户用adt-get，yum等，根据不同系统不同选择进行下载。&lt;/p&gt;
+&lt;h2 id=&#34;quick-start&#34;&gt;Quick Start&lt;/h2&gt;
+&lt;h3 id=&#34;create-a-new-post&#34;&gt;Create a new post&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;$ hugo new site myBlog
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;此时会自动在当前目录下生成myBlog的文件,里面有各种各样的文件，
+如 archetypes, content, layouts, static, config.toml&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Hexo</title>
